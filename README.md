@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @4rd2
-- 👀 I’m interested in programming, front-end development, and project experiences for beginners.
-- 🌱 I’m currently learning Java, javascript, html, and css and front-end development.
+- 👀 I’m interested in front-end development, web accessibility, and responsive design for beginners.
+- 🌱 I’m currently learning Java, javascript, html, and css.
 
