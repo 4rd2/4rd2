@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express, React, Quantum Computing, Software Engineering, and Web Development**
 
-- 🤝 I’m looking for help with **Eye Tracking Research**
+- 🤝 I’m looking for help with **Computer Vision Research**
 
 - ⚡ Fun fact **I collect Kirby collectibles.**
 
