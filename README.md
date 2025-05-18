@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 4rd2</h1>
+<h1 align="center">Hi 👋, I'm Ford</h1>
 <h3 align="center">A 3rd year Computer Science and Engineering Student at The Ohio State University.</h3>
 
 - 🔭 I’m currently working on [a portfolio website](https://github.com/4rd2/portfolio-website)
